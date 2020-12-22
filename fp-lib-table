@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name loco-rollers-n)(type KiCad)(uri ${KIPRJMOD}/loco-rollers-n.pretty)(options "")(descr ""))
+)
