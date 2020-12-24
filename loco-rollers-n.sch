@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Loco Dyno Rollers"
+Title "Loco Rollers"
 Date "2020-12-21"
-Rev "P1"
+Rev "R1"
 Comp "Design By: Ian Hartwig"
-Comment1 ""
+Comment1 "For N Scale (1:160)"
 Comment2 ""
 Comment3 ""
 Comment4 ""
